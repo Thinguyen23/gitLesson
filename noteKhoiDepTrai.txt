@@ -3,7 +3,19 @@ go to parent: cd ..
 go to a folder: cd <folder name>
 create a folder: mkdir <name of the folder>
 remove: rm <folder name>
-Kohi dang sua file nay
+move from one: mv <name of the thing> <name of the folder>
+current directory: .
+parent directory: ..
 
-
-
+*Git lesson:
+create git: git init
+know file status (saved or unsaved): git status
+add current dir.:git add .
+then accept (commit) the file: git commit -m
+show messge: -m "<message>"
+create a branch: git checkout -b "<branchname>"
+go to a branch: git checkout <branchname>
+show current branch: git branch
+download a file from github: git clone --recursive <link>
+upload file to github: git push
+get current file: git pull
