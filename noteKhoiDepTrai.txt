@@ -1,0 +1,8 @@
+list all files: ls
+go to parent: cd ..
+go to a folder: cd <folder name>
+create a folder: mkdir <name of the folder>
+remove: rm <folder name>
+
+
+
